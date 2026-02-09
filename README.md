@@ -1,5 +1,7 @@
 # Qt Music Player
-MADE BY IFON ITOR, JASON HIPPOLITE, PRINCE UMEH
+MADE BY IFON ITOR 20233246
+ JASON HIPPOLITE 20232884,
+ PRINCE UMEH 20233270,
 Qt Music Player is a simple desktop music player built with **Qt** and **C++**.  
 It provides a clean interface for playing basic audio files using Qt Multimedia.
 
@@ -84,4 +86,5 @@ To create a standalone executable:
 
 ```bash
 windeployqt QtMusicPlayer.exe
+
 
